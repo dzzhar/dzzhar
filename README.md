@@ -23,7 +23,6 @@
 
 - 🌱 I’m currently learning **Python & Flask**
 - 👨‍💻 All my projects are available [here](https://portofolio-dzzhar.vercel.app/)
-- ⚡ Fun fact **I play Roblox**
 - 🏠 Based in Indonesia
 
 ###
