@@ -22,7 +22,7 @@
 
 
 - 🌱 I’m currently learning **Python & Flask**
-- 👨‍💻 All my projects are available [here](https://portofolio-dzzhar.vercel.app/)
+- 👨‍💻 All my projects are available [here](https://zharifahdzikra.vercel.app/)
 - 🏠 Based in Indonesia
 
 ###
