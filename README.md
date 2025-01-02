@@ -21,7 +21,7 @@
 <p align="left">Hi, I'm Zharifah Dzikra Purnomo, someone who is interested in Front End Development.</p>
 
 
-- 🌱 I’m currently learning **Python & Flask**
+- 🌱 I’m currently learning **React.js & Chakra UI**
 - 👨‍💻 All my projects are available [here](https://zharifahdzikra.vercel.app/)
 - 🏠 Based in Indonesia
 
