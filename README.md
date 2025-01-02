@@ -42,6 +42,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
 </div>
 
