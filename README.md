@@ -21,7 +21,7 @@
 <p align="left">Hi, I'm Zharifah Dzikra Purnomo, someone who is interested in Front End Development.</p>
 
 
-- 🌱 I’m currently learning **React.js & Chakra UI**
+- 🌱 I’m currently learning **Tailwind CSS**
 - 👨‍💻 All my projects are available [here](https://zharifahdzikra.vercel.app/)
 - 🏠 Based in Indonesia
 
@@ -38,11 +38,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="flask logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
 </div>
