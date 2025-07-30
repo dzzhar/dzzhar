@@ -22,7 +22,7 @@
 
 
 - 🌱 I’m currently learning **Tailwind CSS**
-- 👨‍💻 All my projects are available [here](https://zharifahdzikra.vercel.app/)
+- 👨‍💻 All my projects are available [here](https://zharifahdzikra.is-a.dev/)
 - 🏠 Based in Indonesia
 
 ###
