@@ -2,21 +2,6 @@
 ## Hi there, I'm [Zharifah!](https://github.com/dzzhar)👋
 
 ###
-<div align="left" >
-  <a href="https://www.linkedin.com/in/zharifahdzikra/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  
-  <a href="https://medium.com/@zharifahdzikra" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="42" height="30" alt="medium logo"  />
-  </a>
-  
-  <a href="https://www.instagram.com/zharifahdzikra/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  </a>
-</div>
-
-###
 
 <p align="left">Hi, I'm Zharifah Dzikra Purnomo, someone who is interested in Web Development.</p>
 
@@ -38,7 +23,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwind logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="12" />
