@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Hi, I'm Zharifah Dzikra Purnomo, someone who is interested in Front End Development.</p>
+<p align="left">Hi, I'm Zharifah Dzikra Purnomo, someone who is interested in Web Development.</p>
 
 
 - 🌱 I’m currently learning **Tailwind CSS**
@@ -43,6 +43,8 @@
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
 </div>
