@@ -33,15 +33,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div>
-  <a href="https://open.spotify.com/user/31hhn6hyjlimvzo5yac3vav6jzqm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hhn6hyjlimvzo5yac3vav6jzqm&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
