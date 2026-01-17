@@ -1,12 +1,12 @@
 
-## Hi there, I'm [Zharifah!](https://github.com/dzzhar)👋
+## Hi there, I'm [Dzikra!](https://github.com/dzzhar)👋
 
 ###
 
 <p align="left">Hi, I'm Zharifah Dzikra Purnomo, someone who is interested in Web Development.</p>
 
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **Laravel**
 - 👨‍💻 All my projects are available [here](https://zharifahdzikra.is-a.dev/)
 - 🏠 Based in Indonesia
 
@@ -17,12 +17,6 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwind logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
