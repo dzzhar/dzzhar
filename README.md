@@ -19,11 +19,8 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwind logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
 </div>
