@@ -7,6 +7,7 @@
 
 
 - 🌱 I’m currently learning **Laravel**
+- 🎓 Working on a thesis: employee attendance web system for RA Semut
 - 👨‍💻 All my projects are available [here](https://zharifahdzikra.is-a.dev/)
 - 🏠 Based in Indonesia
 
