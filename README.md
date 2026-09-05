@@ -6,8 +6,8 @@
 <p align="left">Hi, I'm Zharifah Dzikra Purnomo, someone who is interested in Web Development.</p>
 
 
-- 🎓 Working on a thesis: employee attendance web system for RA Semut
-- 🌱 I’m currently learning **Laravel**
+- 🎓 Currently seeking opportunities in Full Stack / Backend Development
+- 🌱 Currently learning **Golang** and expanding my backend development skills
 - 👨‍💻 All my projects are available [here](https://zharifahdzikra.is-a.dev/)
 - 🏠 Based in Indonesia
 
